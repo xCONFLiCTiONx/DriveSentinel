@@ -65,3 +65,7 @@ TestResults/
 
 # Local application data
 watch-settings.json
+
+# Privacy: local configs, secrets, databases, keys, logs, installers
+*.db
+*.sqlite*
